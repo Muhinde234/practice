@@ -1,6 +1,6 @@
 
  *{
-    /* border: red solid 1px; */
+     /* border: red solid 1px;  */
     margin-left: 25px;
 } 
 
@@ -13,8 +13,9 @@ body {
 }
 
 .upperhd {
-    background-color: #3e3939;
-    height: 100px;
+    /* background-color: #3e3939; */
+    background-color: rgb(210, 220, 240);
+    height: 130px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -30,6 +31,7 @@ body {
     padding: 0px;
     margin: 0px;
     font-size:15px;
+    font-weight: bold;
 } 
 
 .hdcontacts {
@@ -46,7 +48,7 @@ body {
     padding: 7px 14px;
     border: none;
     text-align: center;
-    font-family:;
+    
 }
 .menu
 {
@@ -55,7 +57,8 @@ body {
     background-color: palevioletred;
     width: 1085px;
     height: 30px;
-    padding-top: 1rem;
+    padding-top: 1rem; 
+    margin-top: -1.5rem;
 }
 .menu a{
     text-decoration: none;
@@ -75,5 +78,27 @@ body {
 }
 .bpar
 {
-    margin-top: 10rem;
+    margin-top: 7rem;
+}
+.bpar >p{
+    font-size: large;
+     font-family: "Montserrat", sans-serif;
+}
+.bimg >img
+{
+    width: 400px;
+    margin-right: 20px;
+}
+.button{
+    cursor: pointer;
+    background-color:palevioletred;
+    border-radius: 19px;
+    font-size: 15px;
+    padding: 7px 14px;
+    border: none;
+    text-align: center;
+}
+.bbutton
+{
+    padding-left: 8rem;
 }
