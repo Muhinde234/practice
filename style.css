@@ -63,3 +63,17 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
 }
+.main
+{
+    display:flex;
+
+}
+.bpar >h1
+{
+    font-size:30px;
+    color:palevioletred ;
+}
+.bpar
+{
+    margin-top: 10rem;
+}
