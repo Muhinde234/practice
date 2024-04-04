@@ -108,8 +108,17 @@ border: 4px solid pink;
 {
     padding-left: 8rem;
 }
-.bp{
-    text-align: center;
+.bp p{
+    /* text-align: center; */
     font-size: 17px;
     font-family: "Montserrat", sans-serif;
+    margin-left: 280px;
+}
+.head h3
+{
+    text-align: center;
+    color:palevioletred ;
+    margin-top: 50px;
+
+    
 }
