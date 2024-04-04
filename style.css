@@ -9,7 +9,7 @@ body {
     padding: 0px;
     margin: 0px;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 18px;
+    font-size: 18px; 
 }
 
 .upperhd {
@@ -87,7 +87,7 @@ border: 4px solid pink;
     margin-top: 3rem;
 }
 .bpar >p{
-    font-size: large;
+    font-size:17px;
      font-family: "Montserrat", sans-serif;
 }
 .bimg >img
@@ -107,4 +107,9 @@ border: 4px solid pink;
 .bbutton
 {
     padding-left: 8rem;
+}
+.bp{
+    text-align: center;
+    font-size: 17px;
+    font-family: "Montserrat", sans-serif;
 }
