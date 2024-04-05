@@ -200,3 +200,8 @@ color: blue;
 text-transform: uppercase;
 font-size: small;
 }
+.face
+{
+    color: pink;
+    font-size: large;
+}
