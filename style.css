@@ -146,11 +146,16 @@ width: 300px;
 height: 300px;
 border-radius: 10px;
 padding-left: 10px;
+margin-top: 20px;
+padding-top:1.5rem ;
 }
 .bride>h6
 {
    font-weight: bolder; 
    margin-top:-0.1rem;
+}
+.bride>i{
+    padding-left: 20px;
 }
 .course
 {
