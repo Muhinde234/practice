@@ -142,5 +142,14 @@ border-radius: 1rem;
 .bride
 {
 background-color: pink;
+width: 300px; 
+height: 300px;
+border-radius: 10px;
 }
-.
+.course
+{
+  background-color: pink; 
+  width: 300px; 
+  height: 300px;
+  border-radius: 10px;
+}
