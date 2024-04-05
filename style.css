@@ -145,6 +145,12 @@ background-color: pink;
 width: 300px; 
 height: 300px;
 border-radius: 10px;
+padding-left: 10px;
+}
+.bride>h6
+{
+   font-weight: bolder; 
+   margin-top:-0.1rem;
 }
 .course
 {
