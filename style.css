@@ -180,4 +180,23 @@ padding-top:1.5rem ;
 .all
 {
   background-color: pink;  
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  /* padding-top: 1.5rem; */
+  margin-right: 40px;
+  padding-left: 30px;
+  margin-top: 20px;
+
+}
+.all>h2{
+    font-weight: bolder; 
+    margin-bottom: 2.5rem;
+}
+.about
+{
+text-align: center;
+color: blue;
+text-transform: uppercase;
+font-size: small;
 }
