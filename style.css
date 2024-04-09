@@ -200,8 +200,17 @@ color:palevioletred ;
 text-transform: uppercase;
 font-size: small;
 }
+hr{
+    border: none;
+    height: 3px;
+    background-color:palevioletred ;
+}
 .face
 {
     color: pink;
     font-size: large;
+}
+.footer
+{
+    background-color: transparent ;
 }
