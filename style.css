@@ -211,10 +211,7 @@ hr{
     font-size: large;
 }
 
-.footer
-{
-    background-color: transparent ;
-}
+
 
 .container {
     max-width: 400px;
@@ -268,7 +265,7 @@ margin-right: 25px;
   button:hover {
     background-color: #b30042;
   }
-  footer{
-    border-top:  #b30042; 
+  .footer{
+    border-top: 3px solid #b30042; 
   }
   
