@@ -256,14 +256,19 @@ margin-right: 25px;
     display: block;
     width: 100%;
     padding: 10px;
+    margin-left: 0.5px;
     background-color:purple;
     color: #fff;
-    border: 5px;
+    border: 1px;
     border-radius: 3px;
     cursor: pointer;
+    
   }
   
   button:hover {
     background-color: #b30042;
+  }
+  footer{
+    border-top:  #b30042; 
   }
   
