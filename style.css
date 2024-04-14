@@ -268,4 +268,9 @@ margin-right: 25px;
   .footer{
     border-top: 3px solid #b30042; 
   }
+ .box>h1
+ {
+position: relative;
+animation: move 10s infinite alternate;
+ } 
   
