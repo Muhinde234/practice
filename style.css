@@ -270,6 +270,7 @@ margin-right: 25px;
   }
  .box>h1
  {
+color: pink;
 position: relative;
 animation: move 10s infinite alternate;
  } 
