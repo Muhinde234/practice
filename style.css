@@ -268,10 +268,14 @@ margin-right: 25px;
   .footer{
     border-top: 3px solid #b30042; 
   }
- .box>h1
+ .box>h2
  {
-color: pink;
+color:#b30042;
 position: relative;
 animation: move 10s infinite alternate;
  } 
-  
+ @keyframes move 
+ {
+    from { left: 0; }
+    to { left:500px; }
+ }       
