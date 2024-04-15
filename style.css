@@ -39,6 +39,7 @@ border: 4px solid pink;
     color: rgb(197, 70, 91);
 } 
 
+
 .hdcontacts {
     display: flex;
     gap: 80px;
@@ -55,7 +56,7 @@ border: 4px solid pink;
     text-align: center;
     
 }
-.menu
+ .menu
 {
     
      
@@ -65,13 +66,13 @@ border: 4px solid pink;
     padding-top: 1rem; 
     margin-top: -1.5rem;
     /* overlapping content */
-}
+ }
 .menu a{
     text-decoration: none;
     font-size:13px;
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
-}
+} 
 .main
 {
     display:flex;
@@ -269,7 +270,7 @@ margin-right: 25px;
     background-color: #b30042;
   }
   .footer{
-    border-top: 3px solid #b30042; 
+    border-top: 1px solid #b30042; 
   }
  .box>h2
  
@@ -309,6 +310,7 @@ margin-right: 25px;
  }
  .guide1>h5
  {
+
   color:rgb(188, 46, 70);
   font-size: medium; 
   font-family: "Montserrat", sans-serif; 
@@ -367,3 +369,6 @@ margin-right: 25px;
   padding-right: 1rem;
   border-right:1px solid #b30042; 
  }
+ 
+ 
+
