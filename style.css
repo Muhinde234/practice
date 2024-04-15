@@ -1,4 +1,7 @@
 
+
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap') */
+
  *{
      /* border: red solid 1px;  */
     margin-left: 25px;
@@ -272,6 +275,14 @@ margin-right: 25px;
  
  {
     color: #b30042;
-    padding-right:  40px;
+    /* padding-right:  40px; */
     text-transform: capitalize;
+    font-family: "Montserrat", sans-serif; 
+    font-size: medium;
+ }
+ 
+ .box1>img{
+    width:150px;
+    height:150px;
+
  }
