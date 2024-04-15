@@ -283,8 +283,9 @@ margin-right: 25px;
  .style1
  {
     display: flex;
-    margin-left:400px ;
-    padding: 1rem;
+    margin-left:200px ;
+    /* padding: 1rem; */
+    
     
  }
 
@@ -292,9 +293,19 @@ margin-right: 25px;
     width:150px;
     height:150px;
     
+    
 
  }
  .box1
  {
-    padding-left: 3rem;
+    padding-left: 5rem;
+    
+ }
+ .box1>h5
+ {
+    color: #b30042;
+ }
+ .guide1>h5
+ {
+  color:#b30042;  
  }
