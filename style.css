@@ -280,9 +280,21 @@ margin-right: 25px;
     font-family: "Montserrat", sans-serif; 
     font-size: medium;
  }
- 
+ .style1
+ {
+    display: flex;
+    margin-left:400px ;
+    padding: 1rem;
+    
+ }
+
  .box1>img{
     width:150px;
     height:150px;
+    
 
+ }
+ .box1
+ {
+    padding-left: 3rem;
  }
