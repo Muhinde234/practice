@@ -269,13 +269,9 @@ margin-right: 25px;
     border-top: 3px solid #b30042; 
   }
  .box>h2
+ 
  {
-color:#b30042;
-position: relative;
-animation: move 10s infinite alternate;
- } 
- @keyframes move 
- {
-    from { left: 0; }
-    to { left:500px; }
- }       
+    color: #b30042;
+    padding-right:  40px;
+    text-transform: capitalize;
+ }
