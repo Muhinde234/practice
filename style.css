@@ -284,7 +284,7 @@ margin-right: 25px;
  {
     display: flex;
     margin-left:200px ;
-     padding-top: 1rem; 
+    padding-top: 1rem; 
     
     
  }
@@ -304,24 +304,30 @@ margin-right: 25px;
  .box1>h5
  {
     color:rgb(188, 46, 70);
+    font-size: medium;
+    font-family: "Montserrat", sans-serif; 
  }
  .guide1>h5
  {
-  color:rgb(188, 46, 70);  
+  color:rgb(188, 46, 70);
+  font-size: medium; 
+  font-family: "Montserrat", sans-serif; 
  }
  .guide1>ol{
     color:rgb(165, 42, 116);
+    font-size: medium;
+    font-family: "Montserrat", sans-serif;
     
  }
  .guide1{
   padding-right: 1rem;
-    border-right:1px solid #b30042; 
+  border-right:1px solid #b30042; 
  }
  .style2
  {
     display: flex;
-    margin-left:200px ;
-     padding-top: 1rem; 
+    margin-left:193px ;
+    padding-top: 1.5rem; 
     
     
  }
@@ -341,19 +347,23 @@ margin-right: 25px;
  .box2>h5
  {
     color:rgb(188, 46, 70);
+    font-size: medium;
+    font-family: "Montserrat", sans-serif; 
  }
  .guide2>h5
  {
   color:rgb(188, 46, 70); 
+  font-size: medium;
   font-family: "Montserrat", sans-serif;  
  }
  .guide2>ol{
     color:rgb(165, 42, 116);
+    font-size: medium;
     font-family: "Montserrat", sans-serif; 
     
     
  }
  .guide2{
   padding-right: 1rem;
-    border-right:1px solid #b30042; 
+  border-right:1px solid #b30042; 
  }
